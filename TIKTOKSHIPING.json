@@ -1,7 +1,7 @@
 {
   "product": "SZL-TikTok-Video",
   "keys": [
-    {"key": "SZL-AB7Q-9K2M-4D8X", "days": 30, "used": true, "used_by": "huxinyang"},
+    {"key": "SZL-AB7Q-9K2M-4D8X", "days": 30, "used": false, "used_by": ""},
     {"key": "SZL-7F2N-3Q9L-8K5D", "days": 30, "used": false, "used_by": ""},
     {"key": "SZL-M6R8-P2QK-7X4C", "days": 30, "used": false, "used_by": ""},
     {"key": "SZL-4JQ9-VA1K-6M3T", "days": 30, "used": false, "used_by": ""},
