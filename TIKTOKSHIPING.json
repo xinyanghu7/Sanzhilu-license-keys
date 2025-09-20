@@ -3,9 +3,9 @@
   "keys": [
     {"key": "SZL-AB7Q-9K2M-4D8X", "days": 30, "used": false, "used_by": ""},
     {"key": "SZL-7F2N-3Q9L-8K5D", "days": 30, "used": true, "used_by": ""},
-    {"key": "SZL-M6R8-P2QK-7X4C", "days": 180, "used": ture, "used_by": "内部使用"},
-    {"key": "SZL-4JQ9-VA1K-6M3T", "days": 1, "used": ture, "used_by":"内部使用"},
-    {"key": "SZL-X9L3-2RFD-7M8Q", "days": 30, "used": ture, "used_by":"内部使用"},
+    {"key": "SZL-M6R8-P2QK-7X4C", "days": 180, "used": true, "used_by": "内部使用"},
+    {"key": "SZL-4JQ9-VA1K-6M3T", "days": 1, "used": true, "used_by":"内部使用"},
+    {"key": "SZL-X9L3-2RFD-7M8Q", "days": 30, "used": true, "used_by":"内部使用"},
     {"key": "SZL-Q7C5-9M2X-K4R8", "days": 30, "used": false, "used_by": ""},
     {"key": "SZL-N3V9-4A6T-2KXM", "days": 30, "used": false, "used_by": ""},
     {"key": "SZL-6R2K-9QF1-T7M8", "days": 30, "used": false, "used_by": ""},
