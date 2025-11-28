@@ -1,0 +1,17 @@
+proxies:
+  - name: "自建美国-VPS"
+    type: ss
+    server: 66.154.117.234
+    port: 16821
+    cipher: aes-256-gcm
+    password: "88888888"
+
+proxy-groups:
+  - name: "🚀 代理选择"
+    type: select
+    proxies:
+      - 自建美国-VPS
+      - DIRECT
+
+rules:
+  - MATCH,🚀 代理选择
