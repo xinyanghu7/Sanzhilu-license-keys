@@ -1,7 +1,7 @@
 {
   "product": "XIANYU-HUXINYANG",
   "keys": [
-    {"key": "XIANYU-A3B7-9C2D-5E8F", "days": 31, "used": True, "used_by": "木子"},
+    {"key": "XIANYU-A3B7-9C2D-5E8F", "days": 31, "used": true, "used_by": "木子"},
     {"key": "XIANYU-1G4H-6J3K-8L5M", "days": 30, "used": false, "used_by": ""},
     {"key": "XIANYU-2N9P-4Q7R-1S6T", "days": 30, "used": false, "used_by": ""},
     {"key": "XIANYU-5V8W-3X1Y-7Z9A", "days": 30, "used": false, "used_by": ""},
